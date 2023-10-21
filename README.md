@@ -1,6 +1,6 @@
 ### Hi there, I'm Joh Akaishi 👋
 
-I'm a data scientist, triathlete, and techno DJ.
+I'm a Data Scientist, Triathlete, and Techno DJ.
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/johakaishi/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/johakaishi)

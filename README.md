@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Joh Akaishi 👋
 
-<!--
-**johakaishi/johakaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist, triathlete, and techno DJ.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/johakaishi/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/johakaishi)
+[![SoundCloud](https://img.icons8.com/color/48/000000/soundcloud.png)](https://soundcloud.com/sekio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and Tech:
+
+- Python
+- SQL, BigQuery
+- DBT

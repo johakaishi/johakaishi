@@ -6,6 +6,9 @@ I'm a data scientist, triathlete, and techno DJ.
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/johakaishi)
 [![SoundCloud](https://img.icons8.com/color/48/000000/soundcloud.png)](https://soundcloud.com/sekio)
 
+[View My Repositories](https://github.com/johakaishi?tab=repositories)
+
+
 #### Languages and Tech:
 
 - Python
